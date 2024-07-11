@@ -1,0 +1,13 @@
+name: feedHeal
+author: Psycofeu
+api: 5.0.0
+version: 1.0.0
+description: §9https://discord.gg/vanillaMCBE
+website: "§ghttps://github.com/Psycofeu"
+main: psycofeu\feedHeal\Main
+
+permissions:
+  feed.use:
+    default: op
+  heal.use:
+    default: op
